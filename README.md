@@ -22,3 +22,9 @@ Presentaciones para la Asignatura Orquestación I en Instituto Profesional Arcos
 010 [https://felixpinok.github.io/Orquestacion/010/](https://felixpinok.github.io/Orquestacion/010/)
 
 011 [https://felixpinok.github.io/Orquestacion/011/](https://felixpinok.github.io/Orquestacion/011/)
+
+012 [https://felixpinok.github.io/Orquestacion/011/](https://felixpinok.github.io/Orquestacion/012/)
+
+013 [https://felixpinok.github.io/Orquestacion/011/](https://felixpinok.github.io/Orquestacion/013/)
+
+014 [https://felixpinok.github.io/Orquestacion/011/](https://felixpinok.github.io/Orquestacion/014/)
